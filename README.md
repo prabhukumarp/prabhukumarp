@@ -3,7 +3,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-PrabhuKumarP-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prabhu-kumar-ponnaganti-766b6714/)](https://www.linkedin.com/in/prabhu-kumar-ponnaganti-766b6714/)
 [![Website Badge](https://img.shields.io/badge/WebSite-PrabhuKumar-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-PrabhuKumar-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-PrabhuKumar-yellow)](https://stackoverflow.com/users/10989446/prabhu-kumar-ponnaganti)
 
 I'm
 Full Stack Solution Architect
